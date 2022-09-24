@@ -23,6 +23,13 @@ docs/optbv-intl-dev.json
   EOS
 end
 
+desc 'serve the style with unvt/charites'
 task :serve do
   sh "charites serve style.yml"
 end
+
+desc 'count the lines of yml files'
+task :lines do
+  sh "wc -l style.yml layers/*.yml"
+end
+
