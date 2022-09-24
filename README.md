@@ -2,6 +2,8 @@
 Internationalized style for optbv by Geospatial Information Authority of Japan (GSI)
 
 # Demo
+![demo image](https://repository-images.githubusercontent.com/540733802/ce6de268-a6ec-4e07-8a9a-c1744f44a024)
+
 https://optgeo.github.io/optbv-intl
 
 # How to use
