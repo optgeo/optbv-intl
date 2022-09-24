@@ -1,0 +1,11 @@
+id: background
+type: background
+paint:
+  background-color:
+    - step
+    - - zoom
+    - $background-color
+    - 4
+    - $water-color
+    - 8
+    - $background-color
