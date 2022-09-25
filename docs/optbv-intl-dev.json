@@ -893,7 +893,7 @@
       },
       "paint": {
         "text-color": "rgba(200, 160, 60,1)",
-        "text-halo-color": "rgba(255,255,255,1)",
+        "text-halo-color": "rgba(255, 255, 255, 1)",
         "text-halo-width": 1.5
       }
     },
@@ -938,7 +938,7 @@
       },
       "paint": {
         "text-color": "rgba(20,90,255,1)",
-        "text-halo-color": "rgba(255,255,255,1)",
+        "text-halo-color": "rgba(255, 255, 255, 1)",
         "text-halo-width": 1
       }
     },
@@ -20238,7 +20238,7 @@
           "rgba(50,50,50,1)",
           "rgba(0,0,0,1)"
         ],
-        "text-halo-color": "rgba(255,255,255,1)",
+        "text-halo-color": "rgba(255, 255, 255, 1)",
         "text-halo-width": 1
       }
     },
@@ -22624,7 +22624,7 @@
           "rgba(50,50,50,1)",
           "rgba(0,0,0,1)"
         ],
-        "text-halo-color": "rgba(255,255,255,1)",
+        "text-halo-color": "rgba(255, 255, 255, 1)",
         "text-halo-width": 1
       }
     },
@@ -25729,7 +25729,7 @@
           "rgba(50,50,50,1)",
           "rgba(0,0,0,1)"
         ],
-        "text-halo-color": "rgba(255,255,255,1)",
+        "text-halo-color": "rgba(255, 255, 255, 1)",
         "text-halo-width": 1
       }
     },
@@ -27209,7 +27209,7 @@
           "rgba(50,50,50,1)",
           "rgba(0,0,0,1)"
         ],
-        "text-halo-color": "rgba(255,255,255,1)",
+        "text-halo-color": "rgba(255, 255, 255, 1)",
         "text-halo-width": 1
       }
     },
@@ -27266,7 +27266,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -27322,7 +27322,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -27378,7 +27378,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -27434,7 +27434,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -27490,7 +27490,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -27546,7 +27546,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -27602,7 +27602,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -27658,7 +27658,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -27714,7 +27714,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -27770,7 +27770,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -27826,7 +27826,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -27882,7 +27882,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -27938,7 +27938,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -27994,7 +27994,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -28050,7 +28050,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -28106,7 +28106,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -28162,7 +28162,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -28218,7 +28218,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -28274,7 +28274,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -28330,7 +28330,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -28386,7 +28386,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -28442,7 +28442,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -28498,7 +28498,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -28554,7 +28554,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -28610,7 +28610,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -28666,7 +28666,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -28722,7 +28722,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -28778,7 +28778,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -28834,7 +28834,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -28890,7 +28890,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -28946,7 +28946,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -29002,7 +29002,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -29058,7 +29058,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -29114,7 +29114,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -29170,7 +29170,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -29226,7 +29226,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -29282,7 +29282,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -29338,7 +29338,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -29394,7 +29394,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -29450,7 +29450,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -29506,7 +29506,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -29562,7 +29562,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -29618,7 +29618,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -29674,7 +29674,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -29730,7 +29730,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -29786,7 +29786,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -29842,7 +29842,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -29898,7 +29898,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -29954,7 +29954,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -30010,7 +30010,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -30066,7 +30066,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -30122,7 +30122,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -30178,7 +30178,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -30234,7 +30234,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -30290,7 +30290,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -30346,7 +30346,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -30402,7 +30402,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -30458,7 +30458,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -30514,7 +30514,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -30570,7 +30570,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -30626,7 +30626,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -30682,7 +30682,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -30738,7 +30738,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -30794,7 +30794,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -30850,7 +30850,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -30906,7 +30906,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -30962,7 +30962,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -31074,7 +31074,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     },
     {
@@ -31130,7 +31130,7 @@
       "paint": {
         "text-color": "rgb(255, 255, 255)",
         "text-halo-color": "rgb(0, 0, 0)",
-        "text-halo-width": 2
+        "text-halo-width": 1
       }
     }
   ]

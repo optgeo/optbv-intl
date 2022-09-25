@@ -13,6 +13,32 @@ $text-halo-color: rgba(255, 255, 255, 1)
 
 # -- sizes -- #
 $text-halo-width: 1
+$intl-text-halo-width: 1 
+
+# --- complex values --- #
+$anchor: 
+  - match
+  - - get
+    - dspPos
+  - LT
+  - top-left
+  - CT
+  - top
+  - RT
+  - top-right
+  - LC
+  - left
+  - CC
+  - center
+  - RC
+  - right
+  - LB
+  - bottom-left
+  - CB
+  - bottom
+  - RB
+  - bottom-right
+  - left
 
 # --- glyphs --- #
 $glyphs: >-

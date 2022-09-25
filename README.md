@@ -42,5 +42,10 @@ map.addControl(new maplibregl.ScaleControl({
 This repository was originally developed to contribute to achieving Objective #4 (demonstrate a distributed map hosting environment for equitable smart campus solutions) of the WG4 (Fast and Smart Maps) of the United Nations Open GIS Initiative.
 
 # See also
+## Works related to GSI Optimal Vector Tiles
 - https://github.com/optgeo/optbv-charites
 - https://github.com/optgeo/optbv-spec
+
+## Works related to GSI Multilingual Vector Tiles
+- https://github.com/optgeo/ise
+

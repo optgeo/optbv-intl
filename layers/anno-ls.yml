@@ -843,5 +843,5 @@ paint:
       - 3244
     - rgba(50,50,50,1)
     - rgba(0,0,0,1)
-  text-halo-color: rgba(255,255,255,1)
+  text-halo-color: $text-halo-color
   text-halo-width: 1

@@ -15,12 +15,12 @@ layout:
   text-rotation-alignment: map
   text-size: 13
   text-font:
-    - NotoSansJP-Regular
+    - $regular-font
   text-max-angle: 360
   text-field:
     - get
     - vt_depth
 paint:
   text-color: rgba(20,90,255,1)
-  text-halo-color: rgba(255,255,255,1)
+  text-halo-color: $text-halo-color
   text-halo-width: 1
