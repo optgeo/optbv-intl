@@ -1,5 +1,5 @@
 # optbv-intl
-Internationalized style for optbv by Geospatial Information Authority of Japan (GSI)
+Internationalized style for [optbv](https://github.com/gsi-cyberjapan/optimal_bvmap) by Geospatial Information Authority of Japan (GSI)
 
 # Demo
 [![gif](https://user-images.githubusercontent.com/18297/192099806-bc10d2cf-5b7a-4c2b-95ae-f6212f69b058.gif)](https://optgeo.github.io/optbv-intl)
